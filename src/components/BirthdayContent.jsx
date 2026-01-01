@@ -9,7 +9,7 @@ export default function BirthdayContent() {
       transition={{ delay: 0.5 }}
       style={{
         background: 'rgba(255, 255, 255, 0.95)',
-        padding: '3rem 2rem 2rem 2rem', // Increased top padding
+        padding: '0rem 2rem 2rem 2rem', // Increased top padding
         borderRadius: '20px',
         width: '100%',
         height: '100%',

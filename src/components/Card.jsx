@@ -24,7 +24,6 @@ export default function Card({ onOpen }) {
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        paddingTop: 0
       }}
     >
       <motion.img 
