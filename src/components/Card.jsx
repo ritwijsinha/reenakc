@@ -23,7 +23,8 @@ export default function Card({ onOpen }) {
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
+        paddingTop: 0
       }}
     >
       <motion.img 
